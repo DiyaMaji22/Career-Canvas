@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import Nav from './Nav.jsx'
 
+import Nav from './Nav.jsx'
 
 function App() {
 const [counter, setCounter] = useState(0);
